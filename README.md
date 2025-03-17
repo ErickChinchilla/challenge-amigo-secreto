@@ -32,7 +32,4 @@ En desarrollo.
 
 
 ## Enlaces
-- [Demo][https://github.com/ErickChinchilla/challenge-amigo-secreto.git]
-
-
-[https://github.com/ErickChinchilla/challenge-amigo-secreto.git]: https://github.com/ErickChinchilla/challenge-amigo-secreto.git
+- [Demo][file:///C:/Users/pelon/OneDrive/Documentos/git-y-github/challenge-amigo-secreto/index.html]
